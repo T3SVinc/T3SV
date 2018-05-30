@@ -1,0 +1,22 @@
+{
+  "name": "t3sv",
+  "version": "1.0.0",
+  "description": "Tier 3 Silicon Valley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T3SVinc/T3SV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T3SVinc/T3SV/issues"
+  },
+  "homepage": "https://github.com/T3SVinc/T3SV#readme"
+}
